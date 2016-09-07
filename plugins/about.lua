@@ -36,7 +36,7 @@ local action = function(msg, blocks)
             if not res then
 				local text = _("This text breaks the markdown.\n"
 						.. "More info about a proper use of markdown [here]"
-						.. "(https://telegram.me/GroupButler_ch/46).")
+						.. "(https://telegram.me/SUBJECTCOM).")
             	api.sendReply(msg, text, true)
             else
             	about = about..'\n'..input
@@ -67,7 +67,7 @@ local action = function(msg, blocks)
 				api.sendMessage(msg.chat.id, _("This text is too long, I can't send it"))
 			else
 				local text = _("This text breaks the markdown.\n"
-						.. "More info about a proper use of markdown [here](https://telegram.me/GroupButler_ch/46).")
+						.. "More info about a proper use of markdown [here](https://telegram.me/subjectcom).")
 				api.sendMessage(msg.chat.id, text, true)
 			end
 		else
