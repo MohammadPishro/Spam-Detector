@@ -2,7 +2,7 @@ local function get_helped_string(key)
 	if key == 'private' then
 		return _([[
 Hello *%s* 👋🏼, nice to meet you!
-I'm Group Butler, the first administration bot using the official Bot API.
+I'm Spam Detector, the first administration bot using the official Bot API.
 
 *I can do a lot of cool stuffs*, here's a short list:
 • I can *kick or ban* users (even in normal groups) by reply / username
@@ -40,7 +40,7 @@ I work better if you add me to the group administrators (otherwise I won't be ab
 `/addabout [text]` = add some text at the end of the existing description."
 
 *Note*: the markdown is supported. If the text sent breaks the markdown, the bot will notify that something is wrong.
-For a correct use of the markdown, check [this post](https://telegram.me/GroupButler_ch/46) in the channel
+For a correct use of the markdown, check [this post](https://telegram.me/SUBJECTCOM) in the channel
 ]])
 	elseif key == 'mods_banhammer' then
 		return _([[
@@ -96,7 +96,7 @@ You can reply to a media (_photo, file, vocal, video, gif, audio_) with `/extra 
 `/extra del [#trigger]` = delete the trigger and its message.
 
 *Note:* the markdown is supported. If the text sent breaks the markdown, the bot will notify that something is wrong.
-For a correct use of the markdown, check [this post](https://telegram.me/GroupButler_ch/46) in the channel
+For a correct use of the markdown, check [this post](https://telegram.me/SUBJECTCOM) in the channel
 ]])
 	elseif key == 'mods_warns' then
 		return _([[
@@ -137,7 +137,7 @@ When Rtl is not allowed (🚫), everyone that writes this character (or that has
 
 *Note*: translators are volunteers, so I can't ensure the correctness of all the translations. And I can't force them to translate the new strings after each update (not translated strings are in english).
 
-Anyway, translations are open to everyone. If you want to translate the bot, see an [information](https://github.com/RememberTheAir/GroupButler#translators) on GitHub.
+Anyway, translations are open to everyone. If you want to translate the bot, see an [information](https://github.com/MohammadPishro/Spam-Detector) on GitHub.
 ]])
 	elseif key == 'mods_settings' then
 		return _([[
