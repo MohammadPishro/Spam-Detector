@@ -1,12 +1,12 @@
-# Persian translations for GroupButler package.
-# Copyright (C) 2016 THE GroupButler'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the GroupButler package.
+# Persian translations for SUBJECTCOM package.
+# Copyright (C) 2016 THE SUBJECTCOM COPYRIGHT HOLDER
+# This file is distributed under the same license as the SUBJECTCOM package.
 # Nicholas Guriev <guriev-ns@ya.ru>, 2016.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: GroupButler 4.0\n"
-"Report-Msgid-Bugs-To: https://telegram.me/baconnn\n"
+"Project-Id-Version: SUBJECTCOM 4.0\n"
+"Report-Msgid-Bugs-To: https://telegram.me/SUBJECTCOM\n"
 "POT-Creation-Date: 2016-08-29 18:19+0300\n"
 "PO-Revision-Date: 2016-08-29 18:18+0300\n"
 "Last-Translator: Nicholas Guriev <guriev-ns@ya.ru>\n"
@@ -69,11 +69,11 @@ msgstr ""
 msgid ""
 "This text breaks the markdown.\n"
 "More info about a proper use of markdown [here](https://telegram.me/"
-"GroupButler_ch/46)."
+"SUBJECTCOM)."
 msgstr ""
 "این مدل نشانه گذاری قابل قبول نیست.\n"
 " اطلاعات بیشتر برای درست استفاده کردن از قابلیت نشانه گذاری را در [این صفحه]"
-"(https://telegram.me/GroupButler_ch/46) مطالعه کنید."
+"(https://telegram.me/SUBJECTCOM) مطالعه کنید."
 
 #: plugins/about.lua:53
 #, fuzzy
@@ -468,7 +468,7 @@ msgstr "[%s] توسط ضد اسپم محاسبه خواهد شد"
 msgid ""
 "\n"
 "Hello *%s* 👋🏼, nice to meet you!\n"
-"I'm Group Butler, the first administration bot using the official Bot API.\n"
+"I'm Spam Detector, the first administration bot using the official Bot API.\n"
 "\n"
 "*I can do a lot of cool stuffs*, here's a short list:\n"
 "• I can *kick or ban* users (even in normal groups) by reply / username\n"
@@ -533,7 +533,7 @@ msgid ""
 "*Note*: the markdown is supported. If the text sent breaks the markdown, the "
 "bot will notify that something is wrong.\n"
 "For a correct use of the markdown, check [this post](https://telegram.me/"
-"GroupButler_ch/46) in the channel\n"
+"SUBJECTCOM) in the channel\n"
 msgstr ""
 "*مدیریت: اطلاعات گروه*\n"
 "\n"
@@ -549,7 +549,7 @@ msgstr ""
 "*تذکر:* نشانه دار کردن در این قسمت پشتیبانی می شود..\n"
 "\"\n"
 "برای استفاده درست ازین امکان به [این صفحه](https://telegram.me/"
-"GroupButler_ch/46) مراجعه کنید."
+"SUBJECTCOM) مراجعه کنید."
 
 #: plugins/help.lua:46
 #, fuzzy
@@ -688,7 +688,7 @@ msgid ""
 "*Note:* the markdown is supported. If the text sent breaks the markdown, the "
 "bot will notify that something is wrong.\n"
 "For a correct use of the markdown, check [this post](https://telegram.me/"
-"GroupButler_ch/46) in the channel\n"
+"SUBJECTCOM) in the channel\n"
 msgstr ""
 "*مدیریت: ذخیره دستورها*\n"
 "\n"
@@ -704,7 +704,7 @@ msgstr ""
 "\n"
 "*تذکر:* نشانه دار کردن در این قسمت پشتیبانی می شود..\n"
 "برای استفاده درست ازین امکان به [این صفحه](https://telegram.me/"
-"GroupButler_ch/46) مراجعه کنید."
+"SUBJECTCOM) مراجعه کنید."
 
 #: plugins/help.lua:102
 msgid ""
