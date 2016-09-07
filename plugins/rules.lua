@@ -46,7 +46,7 @@ local action = function(msg, blocks)
             if not res then
             	api.sendReply(msg, _("This text breaks the markdown.\n"
 					.. "More info about a proper use of markdown "
-					.. "[here](https://telegram.me/GroupButler_ch/46)."), true)
+					.. "[here](https://telegram.me/SUBJECTCOM)."), true)
             else
             	rules = rules..'\n'..input
             	db:hset(hash, 'rules', rules)
@@ -75,7 +75,7 @@ local action = function(msg, blocks)
 			else
 				api.sendMessage(msg.chat.id, _("This text breaks the markdown.\n"
 					.. "More info about a proper use of markdown "
-					.. "[here](https://telegram.me/GroupButler_ch/46)."), true)
+					.. "[here](https://telegram.me/SUBJECTCOM)."), true)
 			end
 		else
 			db:hset(hash, 'rules', input)
