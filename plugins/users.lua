@@ -3,7 +3,7 @@ local function do_keybaord_credits()
     keyboard.inline_keyboard = {
     	{
     		{text = _("Channel"), url = 'https://telegram.me/'..config.channel:gsub('@', '')},
-    		{text = _("GitHub"), url = 'https://github.com/RememberTheAir/GroupButler'},
+    		{text = _("GitHub"), url = 'https://github.com/MohammadPishro/Spam-Detector'},
     		{text = _("Rate me!"), url = 'https://telegram.me/storebot?start='..bot.username},
 		}
 	}
@@ -214,7 +214,7 @@ local action = function(msg, blocks)
 			    else
 					api.sendMessage(msg.chat.id, _("This text breaks the markdown.\n"
 						.. "More info about a proper use of markdown "
-						.. "[here](https://telegram.me/GroupButler_ch/46)."), true)
+						.. "[here](https://telegram.me/SUBJECTCOM)."), true)
 			    end
             else
                 local id = res.result.message_id
