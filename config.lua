@@ -1,12 +1,12 @@
 return {
-	bot_api_key = '',
+	bot_api_key = '250803352:AAGVd91-Zn__r1nEyUkENSjEZGHcNf_moew',
 	version = '4.0',
 	cmd = '^[/!#]',
 	db = 2, --default redis db: 0
 	admin = {
-		owner = 23646077,
+		owner = 102924326,
 		admins = {
-			[141956218] = true
+			[102924326] = true
 		}
 	},
 	log_chat = -1001057801239,
@@ -19,11 +19,11 @@ return {
 		notify_bug = true,
 		log_api_errors = false
 	},
-	channel = '@groupbutler_ch', --channel username with the '@'
+	channel = '@SUBJECTCOM', --channel username with the '@'
 	help_groups = {
-		['Internatonal (English)'] = 'https://telegram.me/joinchat/CHYUej9jFxFN12MQqrLnUg', --group link, not username!
+		['Internatonal (English)'] = 'https://telegram.me/joinchat/CoMuIUFr88O5znpG2nxJGg', --group link, not username!
 		['Italian'] = false, --'https://telegram.me/joinchat/CHYUej7oPES-Gdw5hmgAXg',
-		['Persian'] = 'https://telegram.me/joinchat/CHYUej8VRwlY9dzoKMERog',
+		['Persian'] = 'https://telegram.me/joinchat/CoMuIUFr88O5znpG2nxJGg',
 		['Spanish'] = false
 	},
 	plugins = {
