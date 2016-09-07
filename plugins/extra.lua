@@ -41,7 +41,7 @@ local action = function(msg, blocks)
 				else
 					local text = _("This text breaks the markdown.\n"
 							.. "More info about a proper use of markdown [here]"
-							.. "(https://telegram.me/GroupButler_ch/46).")
+							.. "(https://telegram.me/SUBJECTCOM).")
 					api.sendMessage(msg.chat.id, text, true)
 				end
     		else
