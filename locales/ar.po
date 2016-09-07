@@ -1,12 +1,12 @@
-# Arabic translations for GroupButler package.
-# Copyright (C) 2016 THE GroupButler'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the GroupButler package.
+# Arabic translations for Mohammad Tajik package.
+# Copyright (C) 2016 Mohammad Tajik COPYRIGHT HOLDER
+# This file is distributed under the same license as the Spam Detector package.
 # Nicholas Guriev <guriev-ns@ya.ru>, 2016.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: GroupButler 4.0\n"
-"Report-Msgid-Bugs-To: https://telegram.me/baconnn\n"
+"Project-Id-Version: Spam Detector 4.0\n"
+"Report-Msgid-Bugs-To: https://telegram.me/SUBJECTCOM\n"
 "POT-Creation-Date: 2016-08-29 18:16+0300\n"
 "PO-Revision-Date: 2016-08-29 18:14+0300\n"
 "Last-Translator: Nicholas Guriev <guriev-ns@ya.ru>\n"
@@ -70,10 +70,10 @@ msgstr ""
 msgid ""
 "This text breaks the markdown.\n"
 "More info about a proper use of markdown [here](https://telegram.me/"
-"GroupButler_ch/46)."
+"SUBJECTCOM)."
 msgstr ""
 "هذا النص يكسر تنسيق ماركداون.. لمزيد من المعلومات حول الاستخدام السليم "
-"لماركداون [هنا](https://telegram.me/GroupButler_ch/46)."
+"لماركداون [هنا](https://telegram.me/SUBJECTCOM)."
 
 #: plugins/about.lua:53
 #, fuzzy
@@ -475,7 +475,7 @@ msgstr ""
 msgid ""
 "\n"
 "Hello *%s* 👋🏼, nice to meet you!\n"
-"I'm Group Butler, the first administration bot using the official Bot API.\n"
+"I'm Spam Detector, the first administration bot using the official Bot API.\n"
 "\n"
 "*I can do a lot of cool stuffs*, here's a short list:\n"
 "• I can *kick or ban* users (even in normal groups) by reply / username\n"
@@ -543,7 +543,7 @@ msgid ""
 "*Note*: the markdown is supported. If the text sent breaks the markdown, the "
 "bot will notify that something is wrong.\n"
 "For a correct use of the markdown, check [this post](https://telegram.me/"
-"GroupButler_ch/46) in the channel\n"
+"SUBJECTCOM) in the channel\n"
 msgstr ""
 "*مشرفون: مزيد من المعلومات عن المجموعة*\n"
 "\n"
@@ -560,7 +560,7 @@ msgstr ""
 "*ملاحظة:* هذا البرنا��ج متوافق مع تنسيق ماركداون. إذا تم إرسال نص يكسر تنسيق "
 "ماركداون، البوت سيبلغ أن هناك شيء خاطئ.\n"
 "للاستخدام السليم لتنسيق ماركداون، برجاء الرجوع إلى [هذا الرابط](https://"
-"telegram.me/GroupButler_ch/46) في القناة."
+"telegram.me/SUBJECTCOM) في القناة."
 
 #: plugins/help.lua:46
 #, fuzzy
@@ -701,7 +701,7 @@ msgid ""
 "*Note:* the markdown is supported. If the text sent breaks the markdown, the "
 "bot will notify that something is wrong.\n"
 "For a correct use of the markdown, check [this post](https://telegram.me/"
-"GroupButler_ch/46) in the channel\n"
+"SUBJECTCOM) in the channel\n"
 msgstr ""
 "*المشرفون: أوامر إضافية*\n"
 "\n"
@@ -718,7 +718,7 @@ msgstr ""
 "*ملاحظة:* يجري دعم تنسيق ماركداون. إذا كسب النص المرسل تنسيق ماركداون، البوت "
 "سيبلغ أن هناك شيء خاطئ.\n"
 "من أجل تعرف عن الاستخدام السليم لتنسيق ماركداون، اضغط [هنا](https://telegram."
-"me/GroupButler_ch/46) في القناة"
+"me/SUBJECTCOM) في القناة"
 
 #: plugins/help.lua:102
 msgid ""
